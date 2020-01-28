@@ -19,7 +19,7 @@ def main():
 	hover_text = ['<b>{}</b>'.format(x) + '<br>Confirmed Cases: ' + '{}'.format(y) + '<br>Deaths: ' + '{}'.format(z) + '<br>Suspected: ' + '{}'.format(v) for x,y,z,v in zip(country,confirmed,deaths,suspect)]
 
 	st.title('Outbreak Watch: Wuhan Coronavirus (2019-nCoV)')
-	st.markdown('As of 27 January 2020 11:00AM PST')
+	st.markdown('As of 28 January 2020 8:00AM PST')
 	st.header('Confirmed Cases: ' + str(df['Confirmed'].sum()))
 	st.header('Deaths: ' + str(df['Deaths'].sum()))
 	st.markdown('-----------------------')
