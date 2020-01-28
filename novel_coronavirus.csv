@@ -1,16 +1,17 @@
 Country,Code,Confirmed,Deaths,Recovered,Suspected
-China,CHN,2062,56,49,139
-Macao,MAC,5,,,
+China,CHN,2863,81,49,139
+Macao,MAC,6,,,
 Hong Kong,HKG,8,,,244
-Taiwan,TWN,4,,,
+Taiwan,TWN,5,,,
 US,USA,5,,,
 Japan,JPN,4,,1,
 Thailand,THA,8,,2,
-South Korea,KOR,3,,,
-Singapore,SGP,4,,,
+South Korea,KOR,4,,,
+Singapore,SGP,5,,,
 Vietnam,VNM,2,,,
 France,FRA,3,,,
-Australia,AUS,4,,,
+Australia,AUS,5,,,
 Nepal,NPL,1,,,
 Malaysia,MYS,4,,,
 Canada,CAN,1,,,
+Cambodia,KHM,1,,,
