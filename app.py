@@ -40,7 +40,13 @@ def main():
 
 	plot.update_layout(
 		geo={'showframe':False, 'projection_type':'equirectangular',
-	      	'landcolor':'#cfcfc4'}
+	      	'landcolor':'#cfcfc4'},
+		margin= do.layout.Margin(
+    			l=0,
+    			r=0,
+    			t=0,
+    			b=0
+    		)
 	)
 
 
